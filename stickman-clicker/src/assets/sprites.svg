@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <symbol id="stickman" viewBox="0 0 100 100">
+    <circle cx="50" cy="10" r="10" fill="black" />
+    <line x1="50" y1="20" x2="50" y2="50" stroke="black" stroke-width="4" />
+    <line x1="50" y1="30" x2="30" y2="40" stroke="black" stroke-width="4" />
+    <line x1="50" y1="30" x2="70" y2="40" stroke="black" stroke-width="4" />
+    <line x1="50" y1="50" x2="30" y2="70" stroke="black" stroke-width="4" />
+    <line x1="50" y1="50" x2="70" y2="70" stroke="black" stroke-width="4" />
+  </symbol>
+  <symbol id="sword" viewBox="0 0 10 50">
+    <rect x="4" y="0" width="2" height="40" fill="silver" />
+    <polygon points="0,40 5,50 10,40" fill="gold" />
+  </symbol>
+  <symbol id="background-effect" viewBox="0 0 200 200">
+    <circle cx="100" cy="100" r="100" fill="rgba(255, 215, 0, 0.5)" />
+  </symbol>
+</svg>

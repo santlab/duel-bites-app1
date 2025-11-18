@@ -1,0 +1,28 @@
+{
+  "name": "stickman-clicker",
+  "version": "1.0.0",
+  "description": "A fun clicker game where players earn gold and purchase upgrades.",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "vite": "^2.5.0",
+    "vite-plugin-react": "^1.0.0"
+  },
+  "keywords": [
+    "clicker",
+    "game",
+    "typescript",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
